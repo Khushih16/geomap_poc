@@ -25,27 +25,5 @@ persist_with: geomap_poc_default_datagroup
 # Typically, join parameters require that you define the join type, join relationship, and a sql_on clause.
 # Each joined view also needs to define a primary key.
 
-explore: old_car_data {}
-
-explore: train_data {}
-
-explore: indian_vehicle_details {}
-
-explore: country_data {}
-
-explore: employee {}
-
-explore: car_data {}
-
-explore: house_rent_data {}
-
-explore: train_data2 {}
-
-explore: proptech_ {}
-
-explore: employee2 {}
 
 explore: location_data {}
-
-explore: students {}
-
